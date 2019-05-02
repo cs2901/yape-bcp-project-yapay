@@ -12,5 +12,5 @@ Pasos:
 [Mock-up web](https://projects.invisionapp.com/prototype/cjv73xjlz0091qv01pinadx7o/play)<br/>
 Pasos:
 1. Click en boton con el logo de Yape
-2.1 Click en QR -> Confirmación de pago
-2.2 Long click en QR -> Rechazo de pago
+2. 1 Click en QR -> Confirmación de pago
+2. 2 Long click en QR -> Rechazo de pago
