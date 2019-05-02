@@ -14,3 +14,5 @@ Pasos:
 1. Click en boton con el logo de Yape
 2. Click en QR -> Confirmación de pago
 3. Long click en QR -> Rechazo de pago
+
+También se puede navegar con las flechas izquierda y derecha
