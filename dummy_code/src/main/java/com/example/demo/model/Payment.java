@@ -7,8 +7,7 @@ public class Payment {
 
     private UUID id;
     private float totalAmount;
-    private String companyName;
-    private UUID companyId;
+    private Company company;
     private QR qr;
     private List<String> items;
     private DateTime date;
@@ -16,8 +15,7 @@ public class Payment {
     public Payment(UUID id, float amount, Company company) {
         this.id = id;
         this.totalAmount = amount;
-        this.companyName = company.getName();
-        this.companyId = company.getId();
+        this.company = company;
         //agregar datetime
     }
 
@@ -30,10 +28,10 @@ public class Payment {
     }
 
     public String getCompanyName() {
-        return companyName;
+        return company.getName();
     }
 
-    public UUID getCompanyId() { return companyId; }
+    public UUID getCompanyId() { return company.getId(); }
 
     public QR getQr() {}
 
