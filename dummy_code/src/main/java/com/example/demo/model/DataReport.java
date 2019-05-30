@@ -22,4 +22,6 @@ public class DataReport {
     public void setPayments(List<Payment> payments) {
         this.payments = payments;
     }
+
+    public void sendReport(){}
 }
