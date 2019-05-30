@@ -1,6 +1,7 @@
 package com.example.demo.model;
 import java.util.List;
 import java.util.UUID;
+import org.joda.time.DateTime;
 
 public class Payment {
 
@@ -10,12 +11,14 @@ public class Payment {
     private UUID companyId;
     private QR qr;
     private List<String> items;
+    private DateTime date;
 
-    public Payment(UUID id, float amount, String name, UUID nameId) {
+    public Payment(UUID id, float amount, Company company) {
         this.id = id;
         this.totalAmount = amount;
-        this.companyName = name;
-        this.companyId = nameId;
+        this.companyName = company.getName();
+        this.companyId = company.getId();
+        //agregar datetime
     }
 
     public UUID getId() {
