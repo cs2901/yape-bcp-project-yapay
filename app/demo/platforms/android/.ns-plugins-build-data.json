@@ -1,0 +1,9 @@
+{
+	"nativescript-barcodescanner": {
+		"/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/node_modules/nativescript-barcodescanner/platforms/android/AndroidManifest.xml": "9da4ab50f223a2545ef4ed6eb1c08ad7113d4fac",
+		"/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/node_modules/nativescript-barcodescanner/platforms/android/barcodescanner-release-2.1.6.aar": "03bb6a9683c3ee6b620304f321ea48e5de071ae3"
+	},
+	"tns-core-modules-widgets": {
+		"/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "0adf00f86e29a73b3beb263951c7a10011372516"
+	}
+}

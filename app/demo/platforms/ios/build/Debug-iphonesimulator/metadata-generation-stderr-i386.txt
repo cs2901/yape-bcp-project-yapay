@@ -1,0 +1,72 @@
+clang version 4.0.1 (tags/RELEASE_401/final)
+Target: i386-apple-darwin18.6.0
+Thread model: posix
+InstalledDir: 
+clang Invocation:
+ "clang-tool" "-cc1" "-triple" "i386-apple-ios9.0.0" "-fsyntax-only" "-disable-free" "-disable-llvm-verifier" "-discard-value-names" "-main-file-name" "umbrella.h" "-mrelocation-model" "pic" "-pic-level" "2" "-mthread-model" "posix" "-mdisable-fp-elim" "-masm-verbose" "-target-cpu" "yonah" "-target-linker-version" "302.1" "-v" "-dwarf-column-info" "-debugger-tuning=lldb" "-resource-dir" "../lib/clang/4.0.1" "-isysroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk" "-D" "__NATIVESCRIPT_METADATA_GENERATOR=1" "-I" "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/build/Debug-iphonesimulator/include" "-I" "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/internal" "-I" "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/internal/TKLiveSync/include" "-I" "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/../../app/App_Resources/iOS/src" "-I" "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/../../node_modules/tns-core-modules/platforms/ios/src" "-F/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/build/Debug-iphonesimulator" "-F/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/internal/" "-F/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/build/Debug-iphonesimulator" "-F/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/../../node_modules/nativescript-barcodescanner/platforms/ios" "-F/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios" "-D" "DEBUG=1" "-Wno-unknown-pragmas" "-Wno-ignored-attributes" "-Wno-nullability-completeness" "-Wno-expansion-to-defined" "-std=gnu99" "-fdebug-compilation-dir" "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/internal/metadata-generator/bin" "-ferror-limit" "0" "-fmessage-length" "0" "-stack-protector" "1" "-fblocks" "-fimplicit-module-maps" "-fobjc-runtime=ios-9.0.0" "-fencode-extended-block-signature" "-fobjc-exceptions" "-fexceptions" "-fmax-type-align=16" "-fdiagnostics-show-option" "-x" "objective-c" "umbrella.h"
+
+ignoring nonexistent directory "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/build/Debug-iphonesimulator/include"
+ignoring nonexistent directory "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/../../app/App_Resources/iOS/src"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/Library/Frameworks"
+ignoring duplicate directory "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/build/Debug-iphonesimulator"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/internal
+ /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/internal/TKLiveSync/include
+ /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/../../node_modules/tns-core-modules/platforms/ios/src
+ /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/build/Debug-iphonesimulator (framework directory)
+ /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/internal (framework directory)
+ /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/../../node_modules/nativescript-barcodescanner/platforms/ios (framework directory)
+ /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios (framework directory)
+ ../lib/clang/4.0.1/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+clang version 4.0.1 (tags/RELEASE_401/final)
+Target: i386-apple-darwin18.6.0
+Thread model: posix
+InstalledDir: 
+clang Invocation:
+ "objc-metadata-generator" "-cc1" "-triple" "i386-apple-ios9.0.0" "-fsyntax-only" "-disable-free" "-disable-llvm-verifier" "-discard-value-names" "-main-file-name" "umbrella.h" "-mrelocation-model" "pic" "-pic-level" "2" "-mthread-model" "posix" "-mdisable-fp-elim" "-masm-verbose" "-target-cpu" "yonah" "-target-linker-version" "302.1" "-v" "-dwarf-column-info" "-debugger-tuning=lldb" "-resource-dir" "../lib/clang/4.0.1" "-isysroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk" "-D" "__NATIVESCRIPT_METADATA_GENERATOR=1" "-I" "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/build/Debug-iphonesimulator/include" "-I" "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/internal" "-I" "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/internal/TKLiveSync/include" "-I" "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/../../app/App_Resources/iOS/src" "-I" "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/../../node_modules/tns-core-modules/platforms/ios/src" "-F/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/build/Debug-iphonesimulator" "-F/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/internal/" "-F/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/build/Debug-iphonesimulator" "-F/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/../../node_modules/nativescript-barcodescanner/platforms/ios" "-F/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios" "-D" "DEBUG=1" "-Wno-unknown-pragmas" "-Wno-ignored-attributes" "-Wno-nullability-completeness" "-Wno-expansion-to-defined" "-std=gnu99" "-fdebug-compilation-dir" "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/internal/metadata-generator/bin" "-ferror-limit" "0" "-fmessage-length" "0" "-stack-protector" "1" "-fblocks" "-fimplicit-module-maps" "-fobjc-runtime=ios-9.0.0" "-fencode-extended-block-signature" "-fobjc-exceptions" "-fexceptions" "-fmax-type-align=16" "-fdiagnostics-show-option" "-x" "objective-c" "umbrella.h"
+
+clang -cc1 version 4.0.1 based upon LLVM 4.0.1 default target x86_64-apple-darwin18.6.0
+ignoring nonexistent directory "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/build/Debug-iphonesimulator/include"
+ignoring nonexistent directory "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/../../app/App_Resources/iOS/src"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/Library/Frameworks"
+ignoring duplicate directory "/Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/build/Debug-iphonesimulator"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/internal
+ /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/internal/TKLiveSync/include
+ /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/../../node_modules/tns-core-modules/platforms/ios/src
+ /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/build/Debug-iphonesimulator (framework directory)
+ /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/internal (framework directory)
+ /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/../../node_modules/nativescript-barcodescanner/platforms/ios (framework directory)
+ /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios (framework directory)
+ ../lib/clang/4.0.1/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+In file included from umbrella.h:2:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/CloudKit.framework/Headers/CloudKit.h:12:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CloudKit.framework/Headers/CKContainer.h:10:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CloudKit.framework/Headers/CKDatabase.h:9:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CloudKit.framework/Headers/CKSubscription.h:10:
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CloudKit.framework/Headers/CKRecord.h:188:12: error: attributes may not be specified on a category
+@interface CKRecord(CKRecordKeyValueSettingConformance) <CKRecordKeyValueSetting>
+           ^
+In file included from umbrella.h:515:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/MediaAccessibility.framework/Headers/MediaAccessibility.h:5:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h:9:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CoreAnimation.h:16:
+In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAEAGLLayer.h:7:
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h:52:12: error: attributes may not be specified on a category
+@interface EAGLContext (EAGLContextDrawableAdditions)
+           ^
+In file included from umbrella.h:525:
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/libxml2/libxml/HTMLparser.h:15:10: fatal error: 'libxml/xmlversion.h' file not found
+#include <libxml/xmlversion.h>
+         ^~~~~~~~~~~~~~~~~~~~~
+3 errors generated.

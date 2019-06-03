@@ -1,0 +1,265 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/5edf4e87f5c71e46c98db1fc6fd8b61b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/f7f68cc89eb29a31dd3826e3e7818bc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/cb654fa8e2789a42dcd2210a987dc278/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/841ab206053d5fa40ffa0d179bf885dc/AndroidManifest.xml:17:1-22:12
+MERGED from [:nativescript-optimized-with-inspector:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/22dd4a5bfbba12c78959334d03f71f49/AndroidManifest.xml:2:1-11:12
+MERGED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:2:1-32:12
+MERGED from [:barcodescanner-release-2.1.6:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.6.aar/2f54451729293f9dc4586aaaca7a5319/AndroidManifest.xml:2:1-14:12
+MERGED from [:widgets-release:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/fcfe384aa9a447c3dce852326fe5974f/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/b829c6d8a88625c40f9bd4abefed89e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/1f2aafc59309551b3c2132a19e360301/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/aaf3e1d5297280aec0a3ed2c8db1e518/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/c3077ec77d66735a0c85d3e354d3b56a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/84304d1129522a76d3bdfb2305eaf897/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7870d90cca680a701d456795e6479525/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/96774467866ea8733de4a180d503202f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/993697375f1686925eeeb151f768003a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c017705a9206d64a59ab5d2a4d38deb0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0cfecbab9e43edab035af56b4dd10cb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/768ae305196c1c9fb37b697012fd2df7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0c13a833a117fc8d42eceac8eed62a73/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c304769b9f52030f89dec8674fbf7532/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3d1c1f4e91d804c46f126b44acd22327/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/dd44af2cb00f6f71e260aee8a2fa7346/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b91441c4746df3c10fd6ec644474ce9f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b69a2acc7f3309b152f42a3505b26d0a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3f33b55e78b5275a18c33811d1db7c87/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/505ed18acad707a760a24d846c9e7329/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/127e195d1787a5686b08aacfe6f36bf0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/187fedeaf4ad6ae6fb5fd0762841270e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a25ea711915d1c0b6a7c6a4706cc277b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b87f25a5281c549f8f1adf058bc84b4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1f26264d6520c1bb980fa52c6840a7b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d57387a517f83a79f027a40ef0d596ef/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7981ee3875bf82f46dbccf88beac8111/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0454d66a7548013318fc823510310b4a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5715c88f19d2bb1ed0373ce001afabf9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fcbd7b6d4dd7a38f5ec6ba1ed5dd41dd/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:3:6-58
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:5:6-31
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:4:6-29
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:34
+	android:largeScreens
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:10:4-31
+	android:smallScreens
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:8:4-31
+	android:normalScreens
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:9:4-32
+	android:xlargeScreens
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:11:4-32
+uses-sdk
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:35
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:35
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:35
+MERGED from [com.android.support:multidex:1.0.2] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/5edf4e87f5c71e46c98db1fc6fd8b61b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/5edf4e87f5c71e46c98db1fc6fd8b61b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/f7f68cc89eb29a31dd3826e3e7818bc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/f7f68cc89eb29a31dd3826e3e7818bc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/cb654fa8e2789a42dcd2210a987dc278/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/cb654fa8e2789a42dcd2210a987dc278/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/841ab206053d5fa40ffa0d179bf885dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/841ab206053d5fa40ffa0d179bf885dc/AndroidManifest.xml:20:5-44
+MERGED from [:nativescript-optimized-with-inspector:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/22dd4a5bfbba12c78959334d03f71f49/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/22dd4a5bfbba12c78959334d03f71f49/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:7:5-47
+MERGED from [:barcodescanner-release-2.1.6:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.6.aar/2f54451729293f9dc4586aaaca7a5319/AndroidManifest.xml:7:5-9:41
+MERGED from [:barcodescanner-release-2.1.6:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.6.aar/2f54451729293f9dc4586aaaca7a5319/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/fcfe384aa9a447c3dce852326fe5974f/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/fcfe384aa9a447c3dce852326fe5974f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/b829c6d8a88625c40f9bd4abefed89e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/b829c6d8a88625c40f9bd4abefed89e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/1f2aafc59309551b3c2132a19e360301/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/1f2aafc59309551b3c2132a19e360301/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/aaf3e1d5297280aec0a3ed2c8db1e518/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/aaf3e1d5297280aec0a3ed2c8db1e518/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/c3077ec77d66735a0c85d3e354d3b56a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/c3077ec77d66735a0c85d3e354d3b56a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/84304d1129522a76d3bdfb2305eaf897/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/84304d1129522a76d3bdfb2305eaf897/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7870d90cca680a701d456795e6479525/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7870d90cca680a701d456795e6479525/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/96774467866ea8733de4a180d503202f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/96774467866ea8733de4a180d503202f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/993697375f1686925eeeb151f768003a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/993697375f1686925eeeb151f768003a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c017705a9206d64a59ab5d2a4d38deb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c017705a9206d64a59ab5d2a4d38deb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0cfecbab9e43edab035af56b4dd10cb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0cfecbab9e43edab035af56b4dd10cb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/768ae305196c1c9fb37b697012fd2df7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/768ae305196c1c9fb37b697012fd2df7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0c13a833a117fc8d42eceac8eed62a73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0c13a833a117fc8d42eceac8eed62a73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c304769b9f52030f89dec8674fbf7532/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c304769b9f52030f89dec8674fbf7532/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3d1c1f4e91d804c46f126b44acd22327/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3d1c1f4e91d804c46f126b44acd22327/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/dd44af2cb00f6f71e260aee8a2fa7346/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/dd44af2cb00f6f71e260aee8a2fa7346/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b91441c4746df3c10fd6ec644474ce9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b91441c4746df3c10fd6ec644474ce9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b69a2acc7f3309b152f42a3505b26d0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b69a2acc7f3309b152f42a3505b26d0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3f33b55e78b5275a18c33811d1db7c87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3f33b55e78b5275a18c33811d1db7c87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/505ed18acad707a760a24d846c9e7329/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/505ed18acad707a760a24d846c9e7329/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/127e195d1787a5686b08aacfe6f36bf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/127e195d1787a5686b08aacfe6f36bf0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/187fedeaf4ad6ae6fb5fd0762841270e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/187fedeaf4ad6ae6fb5fd0762841270e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a25ea711915d1c0b6a7c6a4706cc277b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a25ea711915d1c0b6a7c6a4706cc277b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b87f25a5281c549f8f1adf058bc84b4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b87f25a5281c549f8f1adf058bc84b4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1f26264d6520c1bb980fa52c6840a7b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1f26264d6520c1bb980fa52c6840a7b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d57387a517f83a79f027a40ef0d596ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d57387a517f83a79f027a40ef0d596ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7981ee3875bf82f46dbccf88beac8111/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7981ee3875bf82f46dbccf88beac8111/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0454d66a7548013318fc823510310b4a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0454d66a7548013318fc823510310b4a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5715c88f19d2bb1ed0373ce001afabf9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5715c88f19d2bb1ed0373ce001afabf9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fcbd7b6d4dd7a38f5ec6ba1ed5dd41dd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fcbd7b6d4dd7a38f5ec6ba1ed5dd41dd/AndroidManifest.xml:20:5-44
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:35
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:35
+	android:targetSdkVersion
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:15:4-33
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:14:4-30
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml
+		MERGED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:14:4-30
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
+application
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:21:2-42:16
+MERGED from [com.android.support:design:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/cb654fa8e2789a42dcd2210a987dc278/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/cb654fa8e2789a42dcd2210a987dc278/AndroidManifest.xml:22:5-20
+MERGED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:16:5-30:19
+MERGED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:16:5-30:19
+MERGED from [:barcodescanner-release-2.1.6:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.6.aar/2f54451729293f9dc4586aaaca7a5319/AndroidManifest.xml:11:5-12:19
+MERGED from [:barcodescanner-release-2.1.6:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.6.aar/2f54451729293f9dc4586aaaca7a5319/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/fcfe384aa9a447c3dce852326fe5974f/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/fcfe384aa9a447c3dce852326fe5974f/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b69a2acc7f3309b152f42a3505b26d0a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b69a2acc7f3309b152f42a3505b26d0a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3f33b55e78b5275a18c33811d1db7c87/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3f33b55e78b5275a18c33811d1db7c87/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b69a2acc7f3309b152f42a3505b26d0a/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:25:4-36
+	android:icon
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:24:4-33
+	android:allowBackup
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:23:4-30
+	android:theme
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:26:4-35
+	android:name
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:22:4-50
+activity#com.tns.NativeScriptActivity
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:30:5-50
+	android:configChanges
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:31:5-66
+	android:theme
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:32:5-45
+	android:name
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:29:5-48
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:34:15-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/android/app/src/main/AndroidManifest.xml:41:13-55
+uses-permission#android.permission.CAMERA
+ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:10:5-69
+	android:name
+		ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:10:22-66
+uses-feature#android.hardware.camera
+ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:13:9-47
+activity#com.google.zxing.client.android.CaptureActivity
+ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:17:9-29:20
+	android:clearTaskOnLaunch
+		ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:19:13-45
+	android:windowSoftInputMode
+		ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:23:13-60
+	android:exported
+		ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:21:13-37
+	android:configChanges
+		ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:20:13-74
+	android:theme
+		ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:22:13-71
+	android:name
+		ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:18:13-75
+intent-filter#action:name:com.google.zxing.client.android.SCAN+category:name:android.intent.category.DEFAULT
+ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:24:13-28:29
+action#com.google.zxing.client.android.SCAN
+ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:25:17-79
+	android:name
+		ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:25:25-76
+category#android.intent.category.DEFAULT
+ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from [:nativescript_barcodescanner:] /Users/alessiayi/.gradle/caches/transforms-1/files-1.1/nativescript_barcodescanner.aar/27757052716b7a291b5eb8d739dd25fa/AndroidManifest.xml:27:27-73

@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:2:1-14:12
+	package
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:2:70-124
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:2:1-14:12
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:2:1-14:12
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:3:3-62
+	android:name
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:3:20-60
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:4:3-66
+	android:name
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:4:20-64
+uses-feature#android.hardware.camera
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:5:3-82
+	android:required
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:5:56-80
+	android:name
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:5:17-55
+application
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:6:3-13:17
+activity#com.google.zxing.client.android.CaptureActivity
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:7:5-12:16
+	android:clearTaskOnLaunch
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:7:78-110
+	android:windowSoftInputMode
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:7:232-279
+	android:exported
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:7:280-304
+	android:configChanges
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:7:111-172
+	android:theme
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:7:173-231
+	android:name
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:7:15-77
+intent-filter#action:name:com.google.zxing.client.android.SCAN+category:name:android.intent.category.DEFAULT
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:8:7-11:23
+action#com.google.zxing.client.android.SCAN
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:9:9-70
+	android:name
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:9:17-68
+category#android.intent.category.DEFAULT
+ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:10:9-67
+	android:name
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml:10:19-65
+uses-sdk
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml
+INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml
+		ADDED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml
+		INJECTED from /Users/alessiayi/Documents/NatieScript/barcodedemo/demo/platforms/tempPlugin/nativescript_barcodescanner/src/main/AndroidManifest.xml
