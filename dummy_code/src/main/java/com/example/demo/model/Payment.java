@@ -9,45 +9,24 @@ public class Payment {
     private float totalAmount;
     private Company company;
     private QR qr;
-    private List<String> items;
     private DateTime date;
+    private boolean confirmed;
 
-    public Payment(UUID id, float amount, Company company) {
-        this.id = id;
-        this.totalAmount = amount;
-        this.company = company;
-        //agregar datetime
-    }
+    public Payment(String companyName, String companyPhone, float totalAmount)
 
-    public UUID getId() {
-        return id;
-    }
+    public UUID getId()
 
-    public float getTotalAmount() {
-        return totalAmount;
-    }
+    public float getTotalAmount()
 
-    public String getCompanyName() {
-        return company.getName();
-    }
+    public String getCompanyName()
 
-    public UUID getCompanyId() { return company.getId(); }
+    public String getCompanyPhone()
 
-    public QR getQr() {}
+    public String isConfirmed()
 
-    public List<String> getItems() {
-        return items;
-    }
+    public QR getQr()
 
-    public void confirmPayment() {}
+    public void confirmPayment()
 
-    public pair<boolean, Mono<byte[]>> checkQr() {}
-
-    public void setItems(List<String> items) {
-        this.items = items;
-    }
-
-    public void setQr(QR qr) {
-        this.qr = qr;
-    }
+    public boolean qrIsExpired()
 }

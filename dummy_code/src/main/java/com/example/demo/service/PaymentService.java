@@ -2,11 +2,13 @@ package com.example.demo.service;
 
 import com.example.demo.model.Payment;
 import com.example.demo.dao.PaymentDao;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
 import java.util.UUID;
 
+@Service
 public class PaymentService {
 
     private final PaymentDao paymentDao;

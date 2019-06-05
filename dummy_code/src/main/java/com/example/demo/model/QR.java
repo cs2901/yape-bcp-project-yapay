@@ -6,19 +6,15 @@ import org.json.simple.JSONObject;
 
 public class QR {
     private UUID id = UUID.randomUUID();
-    private Payment payment; // companyName, price
-    private boolean hasExpired;
-    private DateTime expiration; // set expiration
+    private String qrcodeData;
+    private DateTime expiration;
 
-    public QR(Payment payment) {
-        this.payment = payment;
-        this.hasExpired = false;
-    };
+    private String generateQR();
 
-    public UUID getId() {
-        return id;
-    }
-    public boolean hasExpired() { return hasExpired; }
-    public JSONObject getContent() {};
-    public Mono<byte[]> generateQR() {};
+    public QR(UUID paymentId, Company company, float totalAmount);
+
+
+    public UUID getId();
+    public boolean hasExpired();
+    public String getQrData();
 }

@@ -9,19 +9,9 @@ public class DataReport {
     private DateTime date;
     private List<Payment> payments;
 
-    public DataReport(DateTime date, List<Payment> payments) {};
+    public DataReport();
 
-    public void setId(UUID id) {
-        this.id = id;
-    }
+    public void addPayment(Payment payment);
 
-    public void setDate(DateTime date) {
-        this.date = date;
-    }
-
-    public void setPayments(List<Payment> payments) {
-        this.payments = payments;
-    }
-
-    public void sendReport(){}
+    public void sendReport();
 }
